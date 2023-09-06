@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "ODL ID": {
-        "value": "demouser"
+        "value": "12345"
       },
       "DeploymentID": {
         "value": "GET-DEPLOYMENT-ID"
