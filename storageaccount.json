@@ -26,9 +26,5 @@
     }
   ],
   "outputs": {
-         "DeploymentID": {
-        "type": "String",
-        "value": "[ parameters('DeploymentID')]"
-      }
   }
 }
